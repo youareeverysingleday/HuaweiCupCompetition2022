@@ -33,6 +33,7 @@
 |24|scipy|1.7.1|
 |25|math|default|
 |26|xlrd|2.0.1|
+|27|pyecharts|1.9.1|
 
 ## 需要做的事情
 
